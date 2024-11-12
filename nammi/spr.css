@@ -1,0 +1,15 @@
+.section-p1{
+    position: relative;
+    top: 75px;
+}
+    .section-p3 a {
+        text-decoration: none;
+        color:black;
+    }
+    .section-p3{
+        gap: 18px;
+        margin-top: 60px;
+    }
+    .car{
+        margin-top: 3px;
+    }

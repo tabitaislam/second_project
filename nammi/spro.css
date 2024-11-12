@@ -1,0 +1,39 @@
+.flex-box{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+}
+.left{
+    width: 50%;
+}
+.big-img{
+    width: 250px;
+}
+.big-img img{
+    width: inherit;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 15px;
+}
+.small-img{
+    width: 50px;
+    overflow: hidden;
+    border: 1.5px solid  black;
+}
+.small-img img{
+    width: inherit;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.small-img img:hover{
+    transform: scale(1.2);
+}
+.single-pro-details{
+    margin-left: 10%;
+}
+.cart:hover{
+    background-color: blue;
+}

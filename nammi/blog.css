@@ -1,0 +1,22 @@
+.parent1{
+    /* background-image: url(https://t4.ftcdn.net/jpg/03/72/81/25/360_F_372812598_uxRemzacFizLwaPwZBBCjUylayaokjTV.jpg); */
+    background-image: url(https://img.freepik.com/free-photo/various-colorful-stationery-school-office-pink-background-with-copyspace_127032-1753.jpg);
+   height: 300px;
+     background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    margin-top: 18px;
+    margin-left: -5px;
+    width: 102%;
+    height: 40vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 14px;
+}
+.parent1 p{
+  margin-top: -15px;
+}
+

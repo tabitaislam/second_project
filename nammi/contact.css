@@ -1,0 +1,35 @@
+#form-details form{
+width: 65%;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+#form-details form{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#form-details form button{
+    background-color: aqua;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 2px;
+    text-decoration:none ;
+    background-color: #088178;
+padding: 15px 20px;
+border-radius: 4px;
+color: aliceblue;
+font-weight: 600;
+}
+#form-details form input,
+#form-details form textarea{
+    width: 100%;
+    padding: 12px 15px;
+    outline: none;
+    margin-bottom: 26px;
+    border: 1px solid #e1e1e1 ;
+}
+#form-details{
+  margin-left: 40%;
+}
